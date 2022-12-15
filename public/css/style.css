@@ -1,0 +1,96 @@
+.body{
+    background-color: #000;
+    color: #fff;
+}
+
+.hh{
+    padding-top: 50px;
+    text-align: center;
+    color: chocolate;
+    justify-content: center;
+    align-items: center;
+}
+
+.hh img{
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+
+}
+
+.one{
+    margin-left: 30%;
+    margin-right: 30%;
+    
+    
+}
+.mb-3 button{
+    width: 150px;
+    padding: 10px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.btn btn-primary{
+    padding-top: 20px;
+    background-color: blueviolet;
+}
+.form-control{
+    width:20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 15px;
+    background-color: rgb(17, 17, 17) ;
+    color : whitesmoke;
+    text-align: center;
+    font-size: medium;
+}
+
+.form-control input{
+    background-color: rgb(17, 17, 17) ;
+    color : whitesmoke;
+    text-align: center;
+    font-size: medium;
+}
+
+.mb-3{
+    padding-top: 30px;
+    text-align:center ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+.header{
+    padding-top: 50px;
+    text-align: center;
+    color: chocolate;
+    justify-content: center;
+    align-items: center;
+}
+.header h1{
+    font-size: 50px;
+    font-weight: 700;
+    margin: 0;
+    padding-bottom: 30px;
+}
+.header p{
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0;
+    padding-bottom: 40px;
+}
+.form-group{
+    display: flex;
+    flex: content;
+}
